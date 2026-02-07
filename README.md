@@ -22,4 +22,4 @@ The word to guess is randomly selected from a list of common words extracted fro
 
 On page load, the application downloads the word list, selects a random word, and retrieves its definitions through HTTP requests.  
 The user reads the definitions grouped by grammatical categories, enters guesses, and receives feedback (“cold / warm / hot”) based on how close the guess is to the target word.  
-The user can reveal the word at any time or start a new game: [elm](https://github.com/TON_USER/elm)
+The user can reveal the word at any time or start a new game: [elm](https://github.com/cpoudensan/elm.git)
