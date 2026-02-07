@@ -15,7 +15,7 @@ Each predator and prey is represented by an independent process with energy-base
 The environment process manages shared state and climate events (such as droughts), while a display process allows real-time observation and control using message queues, signals, and shared memory: [PPC](https://github.com/cpoudensan/PPC.git)
 - **Card Game Implementation (JavaScript)**  
 A JavaScript implementation of the card game *Flip 7*.  
-The project focuses on game logic, user interaction, and turn-based mechanics, allowing players to flip cards, take risks, and score points according to the rules of the game: [JS](https://github.com/TON_USER/JS)
+The project focuses on game logic, user interaction, and turn-based mechanics, allowing players to flip cards, take risks, and score points according to the rules of the game: [JS](https://github.com/cpoudensan/JS.git)
 - **Word Guessing Web Game (Elm)**  
 A web application developed in Elm where the user must guess a word based on its dictionary definitions.  
 The word to guess is randomly selected from a list of common words extracted from a book, and its definitions are fetched via a dictionary API.
