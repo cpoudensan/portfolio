@@ -8,7 +8,7 @@ to provide a clear and organized overview of my work.
 - **Client–Server Application – Shortest Path Calculation (Go)**  
 A client–server application written in Go that computes the shortest path and minimum distance between two cities.  
 The server implements Dijkstra’s algorithm on a weighted graph representing cities and distances, while the client sends textual route requests and receives the optimal path and distance.  
-The server supports multiple concurrent clients using goroutines: [go_project](https://github.com/TON_USER/go_project)
+The server supports multiple concurrent clients using goroutines: [go_project](https://github.com/cpoudensan/go_project.git)
 - **Multi-Process Ecosystem Simulation (Python)**  
 A multi-process simulation of a simple ecosystem composed of predators, preys, and grass.  
 Each predator and prey is represented by an independent process with energy-based behavior (feeding, reproduction, death).  
